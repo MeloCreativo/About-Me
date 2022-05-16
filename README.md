@@ -11,4 +11,4 @@ As a Graphic & UX/UI Designer, I consider myself an advanced user of software su
 So far you've learned a little about me. If you want to learn more, let's chat and work together :)
 
 [![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
