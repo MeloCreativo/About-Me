@@ -1,4 +1,4 @@
-👋 Hi there, I’m Francisco Melo, a UX/UI and UX Developer from Argentina.
+👋 Hi there, I’m <b>Francisco Melo</b>, a UX/UI and UX Developer from Argentina.
 
 I've been working as a UX/UI designer for more than 3 years now and nowadays you can find me working at Devartis as a Jr. Web Layout Coder.
 
